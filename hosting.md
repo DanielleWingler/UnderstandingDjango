@@ -7,6 +7,7 @@ Most django web host, you have to pay for either monthly or annually. However, t
 Those sites with free hosting availability including:
 
 *Python Anywhere:  [pythonanywhere.com](https://www.pythonanywhere.com/pricing/)
+
 *Heroku: [devcenter.heroku.com](https://devcenter.heroku.com/articles/getting-started-with-django)
 
 To pay for web hosting, visit django project site [here.] (https://code.djangoproject.com/wiki/DjangoFriendlyWebHosts)
