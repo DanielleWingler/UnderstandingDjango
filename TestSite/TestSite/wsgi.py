@@ -1,5 +1,5 @@
 """
-WSGI config for netmag project.
+WSGI config for TestSite project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -10,7 +10,7 @@ There should be a .pyc file by the same name at creation.
 """
 
 import os
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "netmag.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "TestSite.settings")
 
 from django.core.wsgi import get_wsgi_application
 application = get_wsgi_application()
