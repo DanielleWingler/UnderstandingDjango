@@ -16,6 +16,9 @@ All you need to do once you have python and django 1.6 installed is type:
 
 ```
 django-admin.py startproject TestSite
+
+# We decided to go with the name TestSite in this repo, but you can name it whatever you like.
+
 cd TestSite
 python manage.py runserver
 
