@@ -1,2 +1,1 @@
-There should be a a .db file of your choosing at this level of the structure. There is where the site posts and other information 
-will be stored. The type of database used will also influence the decision on where the site can be hosted.
+There should be a a .db file of your choosing at this level of the structure. This is where the site posts and other information will be stored. The type of database used will also influence the decision on where the site can be hosted.
