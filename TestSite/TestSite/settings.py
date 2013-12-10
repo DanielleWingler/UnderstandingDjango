@@ -56,9 +56,9 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'netmag.urls'
+ROOT_URLCONF = 'TestSite.urls'
 
-WSGI_APPLICATION = 'netmag.wsgi.application'
+WSGI_APPLICATION = 'TestSite.wsgi.application'
 
 
 # Database
@@ -67,7 +67,7 @@ WSGI_APPLICATION = 'netmag.wsgi.application'
 DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.sqlite3',
-            'NAME': 'netmag.db',
+            'NAME': 'TestSite.db',
         }
     }
 
