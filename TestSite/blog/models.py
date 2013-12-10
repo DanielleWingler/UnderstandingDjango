@@ -1,3 +1,5 @@
+# There should be a .pyc file by the same name at creation.
+
 from django.db import models
 from django.core.urlresolvers import reverse
      
