@@ -13,7 +13,7 @@ Pythonanywhere.com allows you to build your Django site directly from their site
 
 However, you can also create the Django site locally and then push the files to github or dropbox and the pull those files into a directory on pythonanywhere.com.  This is very similar to the jekyll-github model learned in class.
 
-Listed below are the steps we've been taking to get the website from terminal to github to pythonanywhere. [This link](https://drive.google.com/file/d/0BylRKPHp7PBCd1hjWkZrb3cyaDA/edit?usp=sharing)link will take you to a document that gives screenshots of this process to date. 
+Listed below are the steps we've been taking to get the website from terminal to github to pythonanywhere. [This link](https://drive.google.com/file/d/0BylRKPHp7PBCd1hjWkZrb3cyaDA/edit?usp=sharing) will take you to a document that gives screenshots of this process to date. 
 
 ##Build Django Site locally
 
