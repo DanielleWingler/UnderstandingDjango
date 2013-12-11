@@ -14,7 +14,8 @@ NOTE: Heroku does not support SQL lite, so you will need to re-configure your da
 
 To pay for web hosting, visit django project site [here.] (https://code.djangoproject.com/wiki/DjangoFriendlyWebHosts)
 
-Recommendations for choosing a hosting site:
+###Recommendations for choosing a hosting site:
+
 (1) Map out the functionalities you want your database to have and then assess your options.
 
 (2) Understand the versions/types of each component you are using -- django, python, database.  Read about the different versions and don't always assume the newest version is the best.  Also, make sure whatever site you choose to host to can support all of the decisions you have made on software versions and database types.
