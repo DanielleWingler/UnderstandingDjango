@@ -1,13 +1,10 @@
-##Links for Sample Sites Built with Django based on this Repo
+###Links for Sample Sites Built with Django based on this Repo
 
 
-Name: Ashley Brown
-
-Host: Pythonanywhere.com
-
-Site: [http://ashmbrown.pythonanywhere.com/](http://ashmbrown.pythonanywhere.com/)
-
-Note: Work in progress.
+Name: Ashley Brown...
+Host: Pythonanywhere.com...
+Site: [http://ashmbrown.pythonanywhere.com/](http://ashmbrown.pythonanywhere.com/)...
+Note: Work in progress...
 
 
 *Others can add their links as they complete projects that they want to share with the community. 
