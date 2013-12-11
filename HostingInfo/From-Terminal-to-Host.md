@@ -24,7 +24,7 @@ First and foremost, we used the following sources to help us build the website i
 
 (1) [Creative Bloq's Get Started with Django](http://www.creativebloq.com/netmag/get-started-django-7132932).  Note, there are some small programming errors in this example, so read it carefully.
 
-(2) [Django's Documentation](9https://docs.djangoproject.com/en/1.6/) is really good. It covers a lot of material, which can be good, and daunting. 
+(2) [Django's Documentation](https://docs.djangoproject.com/en/1.6/) is really good. It covers a lot of material, which can be good, and daunting. 
 
 The link above provides screenshots of what the basic site will look like. 
 
