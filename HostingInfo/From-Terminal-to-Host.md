@@ -5,8 +5,11 @@ We decided to try to use Pythonanywhere.com to host the test site since it suppo
 This section goes over several key tasks discussed in class, including:
 
 *Basic python programming
+
 *Commandline posts to github.com
+
 *SSH
+
 *Cloning a Github Repository
 
 Pythonanywhere.com allows you to build your Django site directly from their site.  They have an virtualenvironment that allows you to write code, and you can share that environment with others. 
