@@ -16,5 +16,7 @@ To pay for web hosting, visit django project site [here.] (https://code.djangopr
 
 Recommendations for choosing a hosting site:
 (1) Map out the functionalities you want your database to have and then assess your options.
+
 (2) Understand the versions/types of each component you are using -- django, python, database.  Read about the different versions and don't always assume the newest version is the best.  Also, make sure whatever site you choose to host to can support all of the decisions you have made on software versions and database types.
+
 (3) Decide whether its better to build your site locally and then connect it to a hosting site, or if it is either to build the site with the tools provided by the site. For example, anywherepython has a built-in console, so you can code directly on their web interface. Plus you can share that console with another user. 
