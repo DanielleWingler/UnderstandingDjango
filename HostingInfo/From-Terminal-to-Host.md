@@ -1,4 +1,4 @@
-#From Terminal Set-up to PythonAnywhere.com
+#From Terminal Set-Up to PythonAnywhere.com
 
 We decided to try to use Pythonanywhere.com to host the test site since it supports sqlite, which our site uses. However, it is important to note that we had to get an account for $5 a month in order to have SSH access to the account.
 
@@ -15,7 +15,7 @@ However, you can also create the Django site locally and then push the files to 
 
 Listed below are the steps we've been taking to get the website from terminal to github to pythonanywhere. [This link](https://drive.google.com/file/d/0BylRKPHp7PBCd1hjWkZrb3cyaDA/edit?usp=sharing) will take you to a document that gives screenshots of this process to date. 
 
-##Build Django Site locally
+##Build Django Site Locally
 
 First and foremost, we used the following sources to help us build the website in the Ubuntu terminal:
 
@@ -31,7 +31,7 @@ Once you have it hosting locally, you can push it to github.com.  I folllowed my
 
 As you make changes, you can push them github to keep track of changes.
 
-## Set-up Pythonanywhere.com / SSH Install
+## Set-Up Pythonanywhere.com / SSH Install
 
 Pythonanywhere has varying degrees of accounts.  They have a free option that will support one python application, such as a djago site.  It also will support Flask.  The free option will not give you SSH access. However, the $5 a month "Hacker version" will, and you can cancel it at anytime. 
 
