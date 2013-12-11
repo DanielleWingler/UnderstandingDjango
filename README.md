@@ -25,7 +25,7 @@ cd TestSite
 python manage.py runserver
 
 ```
-Open a browser and type in http://127.0.0.1:8000/
+Open a browser and type in http://127.0.0.1:8000/ (not a link-- copy and paste into browser after running code in terminal).
 
 You have a locally hosted django site.
 
