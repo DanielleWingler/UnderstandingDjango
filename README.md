@@ -25,8 +25,8 @@ cd TestSite
 python manage.py runserver
 
 ```
-Open a browser and type in http://127.0.0.1:8000/
+Open a browser and type in http://127.0.0.1:8000/ (not a link-- copy and paste into browser after running code in terminal).
 
 You have a locally hosted django site.
 
-The main inspiration for this repo came from a blog called Creative Bloq. There is a post created called ![Get started with Django](http://www.creativebloq.com/netmag/get-started-django-7132932). It provides a written step-by-step creation, but there are a few syntax errors and code left out that is addressed and included in this repo.
+The main inspiration for this repo came from a blog called Creative Bloq. There is a post created called Get started with Django. It can be found at http://www.creativebloq.com/netmag/get-started-django-7132932. It provides a written step-by-step creation, but there are a few syntax errors and code left out that is addressed and included in this repo.
