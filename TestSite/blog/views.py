@@ -1,3 +1,5 @@
+# There should be a .pyc file by the same name at creation.
+
 from django.shortcuts import render
 
 # Create your views here.
