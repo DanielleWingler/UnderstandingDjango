@@ -17,10 +17,13 @@ It's bland right now, but design will be the next leap in my exploration of djan
 ## What to Expect
 
 PAW has a great user interface and the dashboard is inviting to a beginner ready to wade into the world of code. 
-If you follow the django tutorial from above and do a few glance-overs of the documentation provided from the official ![django project website](https://www.djangoproject.com/). 
+If you follow the django tutorial from above and do a few quick glance-overs of the documentation provided from the official ![django project website](https://www.djangoproject.com/). 
 
-Then you are ready to try making a django site for yourself. I found it handy to have the documentation open while 
-walking through the tutorial and creating the site at the same time. 
+Then you are ready to try making a django site for yourself. 
+
+## Helpful information that made a big difference
+
+I found it handy to have the documentation open while walking through the tutorial and creating the site at the same time. Trying to read and understand the documentation before working with the code did not help me at all, it worked better when I was doing both at the same time. 
 
 The most pivotal bits of code while making the django site within PAW were:
 
@@ -40,7 +43,12 @@ The above code will update your database. With this particular project I used sq
 creating an application so that the database creates a new table for the new app. This is where the posts are stored
 and allows me to create more posts through the bank-end admin part of the site.
 
-Resources:
+## Further steps
+
+Design and specific application information will be provided in other parts of the repo. The resources listed below
+were the main sources of helpful information while creating this django website.
+
+## Resources:
 
 ![djangorocks.com](http://www.djangorocks.com/tutorials/how-to-create-a-basic-blog-in-django/starting-your-application.html)
 
