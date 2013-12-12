@@ -16,6 +16,8 @@ It's bland right now, but design will be the next leap in my exploration of djan
 
 ## What to Expect
 
+![This is a screenshot](http://i.imgur.com/csRRIEs.png)
+
 PAW has a great user interface and the dashboard is inviting to a beginner ready to wade into the world of code. 
 If you follow the django tutorial from above and do a few quick glance-overs of the documentation provided from the official ![django project website](https://www.djangoproject.com/). 
 
