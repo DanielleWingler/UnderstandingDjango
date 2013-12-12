@@ -39,7 +39,7 @@ The below screenshot is of the admin back-end of the above site. You can access 
 ![This is a photo of the site](http://i.imgur.com/764q4WN.png)
 
 The belowscreenshot is what it looks like once you logged in from the page above. This is where the creation of the
-blog posts happen. The username and password is created during the process of the database creation when starting a 
+blog posts happen. The username and password is created during the process of the admin creation when starting a 
 django project.
 
 ![This is a photo of the site](http://i.imgur.com/WY46MZB.png)
